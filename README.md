@@ -17,4 +17,5 @@ The Summary Dashboard captures key loan-related metrics and their changes over t
 * Total Amount Received (MTD and MoM)
 * Average Interest Rate (MTD and MoM)
 * Average Debt-to-Income Ratio (DTI) (MTD and MoM)
+
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
